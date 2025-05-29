@@ -1,0 +1,95 @@
+
+.header{
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+}
+
+header a:hover{
+    color: rgb(2, 217, 2);
+}
+
+.logo{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.menu a{
+    color: grey;
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.contact-btn{
+    background-color: rgb(2, 217, 2);
+    border: 2px solid rgb(2, 217, 2);
+    width: 100px;
+    padding: 5px;
+    color: white;
+    border-radius: 8px;
+    margin-right: 40px;
+}
+
+.i-call{
+    margin-right: 10px;
+}
+
+.first-content{
+    font-family: sans-serif;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.first-content h1{
+    color: #1764a4;
+}
+
+.first-content img{
+    float: left;
+}
+
+.first-content p{
+    
+    letter-spacing: -.2px;
+    line-height: 20px;
+    font-size: 17px;
+}
+
+.second{
+    font-family: sans-serif;
+    margin-top: 70px;
+    margin-left: 100px;
+    width: 1100px;
+    
+    padding: 10px 30px;
+   box-shadow: 0px 5px 20px 0px rgba(0, 0, 0, 0.2);
+}
+
+.second h3{
+    color: rgb(2, 217, 2);
+    
+}
+
+.second p{
+    font-size: 17px;
+    
+}
+
+.i-points{
+    margin-right: 20px;
+    color: rgb(2, 217, 2);
+}
+
+.block{
+    width: 1000px;
+    background-color: rgb(227, 227, 227);
+    margin-left: 32px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    border-radius: 6px;
+}
+
